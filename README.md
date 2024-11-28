@@ -1,6 +1,5 @@
-# Create README.md file for Fake News Detection project
 
-readme_content = """
+
 # **Fake News Detection Using Machine Learning**
 
 ## 📌 Overview
